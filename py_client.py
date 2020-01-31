@@ -24,7 +24,7 @@ try:
     print "----------------"
 
     person2 = ttypes.Person();
-    person2.username = "test002"
+    person2.username = "test003"
     person2.age = 90
     person2.married = True
     client.savePerson(person2)
